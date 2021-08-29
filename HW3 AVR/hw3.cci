@@ -1,0 +1,10 @@
+VERSION:3 SOURCE_TIMESTAMP:4F9D82F2
+NODE:I LEVEL:0 LINE:24 "D:\Apps\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "D:\Apps\cvavr\inc\string.h"
+NODE:I LEVEL:0 LINE:26 "D:\Apps\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:27 "D:\Apps\cvavr\inc\math.h"
+NODE:I LEVEL:0 LINE:28 "D:\Apps\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:31 "D:\Apps\cvavr\inc\alcd.h"
+NODE:V LEVEL:0 LINE:34 "*text -> R4,R5"
+NODE:F LEVEL:0 LINE:36 "ext_int0_isr(void)"
+NODE:F LEVEL:0 LINE:72 "main(void)"
